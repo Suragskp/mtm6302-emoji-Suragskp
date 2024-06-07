@@ -31,6 +31,22 @@ output:
 
 once done save all the files and see the output
 
+Adding more Emojis
+output:
+
+![image](https://github.com/Suragskp/mtm6302-emoji-Suragskp/assets/169490774/cee8b553-28ae-4b0e-9df3-40261d16db3f)
+
+now to push the files back to the repo.
+
+command 7 : git add .
+command 8: git commit -m "Completes the assignment"
+command 9: git push origin main
+
+check your github now.(It should have all the files).
+
+![image](https://github.com/Suragskp/mtm6302-emoji-Suragskp/assets/169490774/b15733ec-1ee6-496a-8685-62d29eefacb2)
+
+
 
 
 
